@@ -1,6 +1,6 @@
 
 # VueJS + I18n + Electron-builder
-[![Build Status](https://travis-ci.org/DiegoBulhoes/vuejs-i18n-electron-builder.svg?branch=master)](https://travis-ci.org/DiegoBulhoes/vuejs-i18n-electron-builder)
+[![Build Status](https://travis-ci.org/DiegoBulhoes/Vuejs-I18n-Electron-builder.svg?branch=master)](https://travis-ci.org/DiegoBulhoes/Vuejs-I18n-Electron-builder)
 
 Example of a Vue JS application with i18n and the Electron-builder plugin
 
